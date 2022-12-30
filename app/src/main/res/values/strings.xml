@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticalDemo</string>
+    <string name="api_key">AIzaSyBSNyp6GQnnKlrMr7hD2HGiyF365tFlK5U</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="location_search">Location Search</string>
+    <string name="location_source">Location Source</string>
+
+</resources>
